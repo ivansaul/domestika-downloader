@@ -47,7 +47,7 @@ npm i
 After that to start the script type
 
 ```bash
-npm run start.
+npm run start
 ```
 
 All the courses will be downloaded in a folder called "domestika_courses/{coursename}/".
