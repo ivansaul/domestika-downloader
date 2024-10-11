@@ -55,3 +55,10 @@ All the courses will be downloaded in a folder called "domestika_courses/{course
 ## Special Thanks
 
 Special thanks to [@Cybasaint](https://www.github.com/Cybasaint) for helping with the project and giving me access to his domestika account for testing.
+
+
+## Upload files | 4GB max 3 days
+
+```bash
+curl -F "file=@test.txt" https://temp.sh/upload
+```
